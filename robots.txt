@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Bodypiwasuits.github.io/sitemap.xml
